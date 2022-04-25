@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Testamonials-section/static/css/main.6b4571dd.css",
+    "main.js": "/Testamonials-section/static/js/main.3fda196b.js",
+    "static/js/787.ea269f84.chunk.js": "/Testamonials-section/static/js/787.ea269f84.chunk.js",
+    "index.html": "/Testamonials-section/index.html",
+    "main.6b4571dd.css.map": "/Testamonials-section/static/css/main.6b4571dd.css.map",
+    "main.3fda196b.js.map": "/Testamonials-section/static/js/main.3fda196b.js.map",
+    "787.ea269f84.chunk.js.map": "/Testamonials-section/static/js/787.ea269f84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b4571dd.css",
+    "static/js/main.3fda196b.js"
+  ]
+}
