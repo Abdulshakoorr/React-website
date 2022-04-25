@@ -1,0 +1,77 @@
+.image-tag{
+  max-width: 100px;
+  height: auto;
+  margin-top: 15px;
+  box-shadow: 4px 4px 6px #444;
+  border-radius: 50%;
+}
+.contant{
+  padding: 5px;
+}
+.name{
+  color: rgb(39, 38, 38);
+}
+.job{
+  font-size: .5rem;
+}
+.img-side-icon{
+  color: red;
+  position: absolute;
+  top: 50px;
+  left: 90px;
+  font-size: 25px;
+}
+.desc{
+  font-size: 12px;
+  margin: 12px;
+}
+.image-container{
+  position: relative;
+}
+.btn-container{
+  position: relative;
+  top: 10px;
+  left: 130px;
+  padding:0px 20px ;
+  width: 120px;
+}
+.btn-left{
+  margin-right: 12px;
+  outline: none;
+  border: none;
+  align-items: center;
+  background-color:transparent;
+  font-size: large;
+  cursor: pointer;
+  color: #444;
+}
+.btn-left:hover{
+  margin-right: 12px;
+  outline: none;
+  border: none;
+  align-items: center;
+  background-color:transparent;
+  font-size: large;
+  cursor: pointer;
+  color: rgb(40, 189, 169);
+}
+.btn-right{
+  margin-left: 12px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  align-items: center;
+  color: #444;
+  background-color:transparent;
+  font-size: large;
+}
+.btn-right:hover{
+  margin-left: 12px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  align-items: center;
+  color: rgb(40, 189, 169);
+  background-color:transparent;
+  font-size: large;
+}
